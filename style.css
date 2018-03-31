@@ -11,9 +11,9 @@
 .left-eye {
     background-color: skyblue;
     border:1px solid gray;
-    height:20px;
+    height:30px;
     border-radius:50%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
-    width:20px;
+    width:30px;
 }
